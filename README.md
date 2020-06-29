@@ -21,8 +21,9 @@ This website is made to showcase all the information necessary during training.
 > smite - usage: /smite username [reason] [-q]
 (Someone is breaking the rules? Just smite them down.)	
 
-> stfu - usage: /stfu username (test) (test)
-
+> stfu - usage: /stfu [-s / -q] username [reason] [list | purge | all] -  Aliases: stfu
+(Mute the specified player. [-s / -q] - Slient Mute / Quiet Mute.) 
+ 
 ## Type 2 - Crowd Control Commands
 
 > cage - usage: /cage username [purge | <partialname>]
