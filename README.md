@@ -22,7 +22,6 @@ This website is made to showcase all the information necessary during training.
 (Someone is breaking the rules? Just smite them down.)	
 
 > mute - usage: /mute {-s | -q} username {reason} {list | purge | all} -  Aliases: stfu
-(Mute the specified player. {-s | -q) Smite - Quiet Mute.}
 
 ## Type 2 - Crowd Control Commands
 
