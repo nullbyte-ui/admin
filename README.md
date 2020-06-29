@@ -21,7 +21,7 @@ This website is made to showcase all the information necessary during training.
 > smite - usage: /smite username [reason] [-q]
 (Someone is breaking the rules? Just smite them down.)	
 
-> mute - usage: /mute username [reason] [list | purge | all] -  Aliases: stfu
+> stfu - usage: /stfu username [reason] [list | purge | all] -  Aliases: mute
 
 ## Type 2 - Crowd Control Commands
 
