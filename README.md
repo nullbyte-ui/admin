@@ -30,13 +30,13 @@
 (Place a user in a cage using certain blocks or someone's player head.)
 
 > orbit usage: /orbit username [stop]
-(Sends the target flying, they cannot stop it. )
+(Send the specified player to the Telnet Heavens, they cant stop)
 		
 > freeze - usage: /freeze [target | purge] - Aliases: fr
-(Freeze/Unfreeze a specified player, or all non-admins on the server.		)	 
+(Freeze/Unfreeze a specified player, or all non-admins on the server.)	 
 
 > undisguiseall - usage: /undisguiseall [-a] - Aliases: uall
-(Undisguise all online players on the server	)		 
+(Undisguise all online players on the server)		 
 
 > blockpvp - usage: /blockpvp [-s] <player> [reason] [list | purge | all] - Aliases: pvpblock, pvpmode
 (Toggle PVP mode for everyone or a certain player.)
@@ -86,9 +86,6 @@
 
 > say - Usage: /say [message]
 (Broadcasts the given message as the server, includes sender name.)
-
-> orbit - usage: /orbit username [<power> | stop>]
-(Send the specified player to the Telnet Heavens)
 
 > deopall - usage: /deopall
 (Deop everyone on the server.)
