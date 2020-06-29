@@ -19,9 +19,6 @@
 > wipepunishments - usage: /wipepunishments <username | -a>
 (Wipes all logged punishments or punishments for a specific user.)
 
-> cleardiscordqueue - usage: /cleardiscordqueue
-(Clear the discord message queue.)
-
 ## Type 2 - Sanction Commands
 
 > doom  - usage: /doom username [reason]
