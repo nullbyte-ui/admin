@@ -21,7 +21,7 @@ This website is made to showcase all the information necessary during training.
 > smite - usage: /smite username [reason] [-q]
 (Someone is breaking the rules? Just smite them down.)	
 
-> mute - usage: /mute {-s | -q} username {reason}
+> mute
 
 ## Type 2 - Crowd Control Commands
 
