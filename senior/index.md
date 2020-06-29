@@ -17,7 +17,7 @@
 (Removes all essentials playerdata)
 
 > wipepunishments - usage: /wipepunishments <username | -a>
-(Sends the specified player to their doom.)
+(Wipes all logged punishments or punishments for a specific user.)
 
 > cleardiscordqueue - usage: /cleardiscordqueue
 (Clear the discord message queue.)
