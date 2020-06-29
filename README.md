@@ -6,7 +6,7 @@ This website is made to showcase all the information necessary during training.
 
 ## Type 1 - Sanction Commands
 
->gtfo - usage: /gtfo username [reason] [-nrb | -q] - Aliases: ban
+> gtfo - usage: /gtfo username [reason] [-nrb | -q] - Aliases: ban
 >(Bans the specified player for 24 hours)
 			 
 > tempban - usage: /temp username time(1h - 3h) [reason]
@@ -22,7 +22,7 @@ This website is made to showcase all the information necessary during training.
 (Someone is breaking the rules? Just smite them down.)	
 
 > mute - usage: /mute (-s | -q) username (reason) (list | purge | all) -  Aliases: stfu
-(Mute the specified player. (-s | -q) - Slient Mute / Quiet Mute.) 
+(Mute the specified player. (-s | -q) Smite - Quiet Mute.) 
 
 ## Type 2 - Crowd Control Commands
 
