@@ -21,7 +21,7 @@ This website is made to showcase all the information necessary during training.
 > smite - usage: /smite username [reason] [-q]
 (Someone is breaking the rules? Just smite them down.)	
 
-> stfu - usage: /stfu username
+> stfu - usage: /stfu username (test) (test)
 
 ## Type 2 - Crowd Control Commands
 
