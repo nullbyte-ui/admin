@@ -1,4 +1,5 @@
 ## Admin Training 
+<a href="#" class="button">Telnet Admin (https://nullbyte-ui.github.io/admin/telnet/)</a>
 
 This website is made to showcase all the information necessary during training.
 
