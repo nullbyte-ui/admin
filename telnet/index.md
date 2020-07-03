@@ -18,7 +18,7 @@
 
 ## Type 2 - Player Control/Misc
 
-> togglechat - Usage: /togglechat - Aliases: tc
+> togglechat - usage: /togglechat - Aliases: tc
 (Toggle online players' ability to chat.)
 
 > kicknoob  - usage: /kicknoob - Aliases: kickall
@@ -29,10 +29,10 @@
 
 ## Type 3 - Console Commands
 
-> consolesay - Usage: /consolesay <message> - Aliases: csay
+> consolesay - usage: /consolesay <message> - Aliases: csay
 (Telnet/Console command - Send a chat message with chat formatting over telnet.)
 
-> wipecoreprotectdata - Usage: /<command>
+> wipecoreprotectdata - usage: /<command>
 (Wipes the CoreProtect data for the flatlands)
 
 <br /><br />
