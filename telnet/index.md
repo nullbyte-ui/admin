@@ -34,7 +34,9 @@
 
 > wipecoreprotectdata - Usage: /<command>
 (Wipes the CoreProtect data for the flatlands)
+
 <br /><br />
+
 Admin removal policy: https://totalfreedom.boards.net/thread/54344/admin-suspension-request-procedures
 Telnet Purposes Policy (Telnet+ Access): https://totalfreedom.boards.net/thread/5155/telnet-purposes-policy-read
 Telnet Port (Telnet+ Access): https://totalfreedom.boards.net/thread/39643/telnet-port-info-9
