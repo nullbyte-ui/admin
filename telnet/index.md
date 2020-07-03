@@ -32,7 +32,7 @@
 > consolesay - usage: /consolesay <message> - Aliases: csay
 (Telnet/Console command - Send a chat message with chat formatting over telnet.)
 
-> wipecoreprotectdata - usage: /<command>
+> wipecoreprotectdata - usage: /wipecoreprotectdata
 (Wipes the CoreProtect data for the flatlands)
 
 <br /><br />
