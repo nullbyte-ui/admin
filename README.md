@@ -1,8 +1,8 @@
-## Admin Training 
+## Admin Commands List.
 ### This website is made to showcase all the information necessary during training.
 <a href="https://nullbyte-ui.github.io/admin/telnet/" class="button">Telnet Admin</a> - <a href="https://nullbyte-ui.github.io/admin/senior/" class="button">Senior Admin</a>
 
-### Super Admin Commands
+### Moderator Commands
 
 ## Type 1 - Sanction Commands
 
