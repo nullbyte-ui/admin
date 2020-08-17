@@ -1,5 +1,5 @@
 ## Admin Training 
-<a href="https://nullbyte-ui.github.io/admin" class="button">Super Admin</a> - <a href="https://nullbyte-ui.github.io/admin/telnet/" class="button">Telnet Admin</a>
+<a href="https://nullbyte-ui.github.io/admin" class="button">Moderator</a>
 
 
 ## Type 1 - World & Player Control
