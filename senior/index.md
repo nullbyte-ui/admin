@@ -1,4 +1,4 @@
-## Admin Training 
+## Admin Commands List
 <a href="https://nullbyte-ui.github.io/admin" class="button">Moderator</a>
 
 
