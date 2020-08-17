@@ -106,7 +106,6 @@
 (Toggle certain server behaviours)
 **Available toggles**: waterplace, fireplace, lavaplace, fluidspread, lavadmg, firespread, frostwalk, firework, prelog, lockdown, petprotect, entitywipe, nonuke [range] [count], explosives [radius], unsafeenchs, bells, armorstands, structureblocks, jigsaws, grindstones, jukeboxes, spawners, 4chan, beehives, autotp, autoclear
 
-### New Permissions
 
 ## Telnet Client Commands
 
