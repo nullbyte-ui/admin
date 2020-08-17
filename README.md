@@ -111,14 +111,14 @@
 
 ## Type 1 - Config Control
 
-> saconfig - usage: /saconfig <list | clean | reload | | setrank <username> <rank> | <add | remove | info> <username>>
-(Configure/edit the admin list)
+> slconfig - usage: /slconfig <list | clean | reload | | setrank <username> <rank> | <add | remove | info> <username>>
+(Configure/edit the staff list)
 
-> adminmode - Usage: /<command> [on | off]
-(Denies joining of operators and only allows admins to join.)
+> staffmode - Usage: /<command> [on | off]
+(Denies joining of operators and only allows staff to join.)
 
-> verifynoadmin - usage: /verifynoadmin <player> - Aliases: vna
-(Verify an admin without giving them administrator permissions.)
+> verifynostaff - usage: /verifynoadmin <player> - Aliases: vna
+(Verify a staff member without giving them staff permissions.)
 
 > plugincontrol - usage: /plugincontrol <<enable | disable | reload> <pluginname>> | list> - Aliases: plc
 (Enable, disable, or reload a specified plugin, as well as list all plugins on the server.)
@@ -129,7 +129,7 @@
 (Toggle online players' ability to chat.)
 
 > kicknoob  - usage: /kicknoob - Aliases: kickall
-(Kick all non-admins on server.)
+(Kick all non-staff off the server.)
 
 > tellraw - usage: /tellraw <targets> <message>
 (Similar to rawsay, format message in JSON)
