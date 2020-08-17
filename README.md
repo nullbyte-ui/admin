@@ -1,4 +1,4 @@
-## Admin Commands List.
+## Moderator Commands List.
 ### This website is made to showcase all the information necessary during training.
 <a href="https://nullbyte-ui.github.io/admin/senior/" class="button">Admin</a>
 
