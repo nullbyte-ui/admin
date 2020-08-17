@@ -1,6 +1,6 @@
 ## Admin Commands List.
 ### This website is made to showcase all the information necessary during training.
-<a href="https://nullbyte-ui.github.io/admin/telnet/" class="button">Telnet Admin</a> - <a href="https://nullbyte-ui.github.io/admin/senior/" class="button">Senior Admin</a>
+<a href="https://nullbyte-ui.github.io/admin/senior/" class="button">Admin</a>
 
 ### Moderator Commands
 
@@ -104,15 +104,51 @@
 
 > toggle - usage: /toggle [togglable]			 
 (Toggle certain server behaviours)
-
 **Available toggles**: waterplace, fireplace, lavaplace, fluidspread, lavadmg, firespread, frostwalk, firework, prelog, lockdown, petprotect, entitywipe, nonuke [range] [count], explosives [radius], unsafeenchs, bells, armorstands, structureblocks, jigsaws, grindstones, jukeboxes, spawners, 4chan, beehives, autotp, autoclear
+
+### New Permissions
+
+## Telnet Client Commands
+
+## Type 1 - Config Control
+
+> saconfig - usage: /saconfig <list | clean | reload | | setrank <username> <rank> | <add | remove | info> <username>>
+(Configure/edit the admin list)
+
+> adminmode - Usage: /<command> [on | off]
+(Denies joining of operators and only allows admins to join.)
+
+> verifynoadmin - usage: /verifynoadmin <player> - Aliases: vna
+(Verify an admin without giving them administrator permissions.)
+
+> plugincontrol - usage: /plugincontrol <<enable | disable | reload> <pluginname>> | list> - Aliases: plc
+(Enable, disable, or reload a specified plugin, as well as list all plugins on the server.)
+
+## Type 2 - Player Control/Misc
+
+> togglechat - usage: /togglechat - Aliases: tc
+(Toggle online players' ability to chat.)
+
+> kicknoob  - usage: /kicknoob - Aliases: kickall
+(Kick all non-admins on server.)
+
+> tellraw - usage: /tellraw <targets> <message>
+(Similar to rawsay, format message in JSON)
+
+## Type 3 - Console Commands
+
+> consolesay - usage: /consolesay <message> - Aliases: csay
+(Telnet/Console command - Send a chat message with chat formatting over telnet.)
+
+> wipecoreprotectdata - usage: /wipecoreprotectdata
+(Wipes the CoreProtect data for the flatlands)
 
 ## Server Policies
 
 You're required to follow those server policies at all times.
 
-**Conduct Policy** : https://totalfreedom.boards.net/thread/65799
+**Conduct Policy** : <a href="https://forum.totalfreedom.me/showthread.php?tid=4" class="button">Click Here</a>
 
-**Zero Tolerance** : https://totalfreedom.boards.net/thread/66374/tolerance-policy-racism-homophobia-transphobia
+**Zero Tolerance** : <a href="https://forum.totalfreedom.me/showthread.php?tid=6" class="button">Click Here</a>
 
-**Admin Policy** : https://totalfreedom.boards.net/thread/66873/administrator-conduct-policy
+**Admin Policy** : <a href="https://forum.totalfreedom.me/showthread.php?tid=2" class="button">Click Here</a>
